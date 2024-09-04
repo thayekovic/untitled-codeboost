@@ -57,7 +57,7 @@ export function SectionAnalitycs(){
                     <ItemFeature 
                     icon={<FiBarChart2 size={24} className="text-brand-600"/>} 
                     title="Manage your team with reports"
-                    text="Measure what matters with Untitled’s easy-to-use reports. You can filter, 
+                    text="Measure what matters with Untitleds easy-to-use reports. You can filter, 
                     export, and drilldown on the data in a couple clicks."
                     isBtn
                     />

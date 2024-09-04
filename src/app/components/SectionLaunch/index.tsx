@@ -23,7 +23,7 @@ export function SectionLaunch(){
                        <ItemLaunch 
                          number="4,000+"
                          title="Global customers"
-                         text="We’ve helped over 4,000 amazing global companies."
+                         text="We have helped over 4,000 amazing global companies."
 
                         />
 
@@ -44,7 +44,7 @@ export function SectionLaunch(){
                         <ItemLaunch 
                          number="200+"
                          title="5-star reviews"
-                         text="We’re proud of our 5-star rating with over 200 reviews."
+                         text="We are proud of our 5-star rating with over 200 reviews."
 
                         />
                     </div>

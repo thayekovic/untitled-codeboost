@@ -15,8 +15,8 @@ export function SectionTestimonials (){
                 alt="Sisyphus"        
                
                 />
-                <h2 className="my-8 text-3xl/tight xl:text-5xl/tight font-medium text-gray-900 -tracking-[0.96px]">We’ve been using Untitled to kick start 
-                    every new project and can’t imagine working without it.</h2>
+                <h2 className="my-8 text-3xl/tight xl:text-5xl/tight font-medium text-gray-900 -tracking-[0.96px]">We have been using Untitled to kick start 
+                    every new project and can not imagine working without it.</h2>
                     <div>
                      <Image 
                       src="/avatar-candice.png"

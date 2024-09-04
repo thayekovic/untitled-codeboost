@@ -21,14 +21,14 @@ export function SectionHero(){
                 src="/macbook.svg"
                 width={1216}
                 height={480}
-                alt="Mockup mackbook"
+                alt="Mockup macbook"
                 className="hidden xl:block mx-auto"
                 />
                 <Image
                 src="/macbook-mobile.png"
                 width={343}
                 height={200}
-                alt="Mockup mackbook"
+                alt="Mockup macbook"
                 className="block xl:hidden mx-auto"
                 />
 

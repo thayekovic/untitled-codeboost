@@ -16,42 +16,42 @@ export function SectionQuestions(){
                 <div className="w-full max-w-3xl mx-auto divide-y divide-gray-200">
                     <Question 
                     title="Is there a free trial available?" 
-                    response="Yes, you can try us for free for 30 days. If you want, we’ll provide 
+                    response="Yes, you can try us for free for 30 days. If you want, we will provide 
                     you with a free, personalized 30-minute 
                     onboarding call to get you up and running as soon as possible."
                     
                     />
                     <Question 
                     title="Can I change my plan later?" 
-                    response="Yes, you can try us for free for 30 days. If you want, we’ll provide 
+                    response="Yes, you can try us for free for 30 days. If you want, we will provide 
                     you with a free, personalized 30-minute 
                     onboarding call to get you up and running as soon as possible."
                     
                     />
                     <Question 
                     title="What is your cancellation policy?" 
-                    response="Yes, you can try us for free for 30 days. If you want, we’ll provide 
+                    response="Yes, you can try us for free for 30 days. If you want, we will provide 
                     you with a free, personalized 30-minute 
                     onboarding call to get you up and running as soon as possible."
                     
                     />
                     <Question 
                     title="Can other info be added to an invoice?" 
-                    response="Yes, you can try us for free for 30 days. If you want, we’ll provide 
+                    response="Yes, you can try us for free for 30 days. If you want, we will provide 
                     you with a free, personalized 30-minute 
                     onboarding call to get you up and running as soon as possible."
                     
                     />
                     <Question 
                     title="How does billing work?" 
-                    response="Yes, you can try us for free for 30 days. If you want, we’ll provide 
+                    response="Yes, you can try us for free for 30 days. If you want, we will provide 
                     you with a free, personalized 30-minute 
                     onboarding call to get you up and running as soon as possible."
                     
                     />
                     <Question 
                     title="How do I change my account email?" 
-                    response="Yes, you can try us for free for 30 days. If you want, we’ll provide 
+                    response="Yes, you can try us for free for 30 days. If you want, we will provide 
                     you with a free, personalized 30-minute 
                     onboarding call to get you up and running as soon as possible."
                     
@@ -69,7 +69,7 @@ export function SectionQuestions(){
                     />
 
                     <h4 className="mt-8 mb-2 text-xl font-medium text-gray-900">Still have questions?</h4>
-                    <p className="text-gray-600 text-lg mb-8">Can't find the answer you're looking for? Please chat to our friendly team.</p>
+                    <p className="text-gray-600 text-lg mb-8">Can not find the answer you are looking for? Please chat to our friendly team.</p>
 
                     <button className="py-3 px-5 bg-brand-600 text-white rounded-lg text-lg font-semibold
                     leading/normal  hover:bg-brand-700 transition-colors">
