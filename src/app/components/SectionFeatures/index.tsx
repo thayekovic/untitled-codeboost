@@ -11,7 +11,7 @@ export function SectionFeatures(){
                 <div className="text-center mb-16">
                     <small className="block text-base text-brand-700 font-semibold mb-3">Features</small>
                     <h2 className="text-center text-3xl xl:text-4xl text-gray-900 
-                    tracking-tighter-[-0.72px] font-semibold mb-5">Analytics that feels like it's from the future</h2>
+                    tracking-tighter-[-0.72px] font-semibold mb-5">Analytics that feels like it is from the future</h2>
                     <p className="text-lg/relaxed xl:text-xl/6 text-gray-600 max-w-3xl mx-auto">Powerful, self-serve product and growth analytics to help you
                     convert, engage, and retain more users. Trusted by over 4,000 startups.
                     </p>
